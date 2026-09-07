@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+scikit-learn
+scipy
+matplotlib
+tqdm
+biopython
+captum
+transformers
+pytorch-lightning

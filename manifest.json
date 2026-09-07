@@ -1,0 +1,331 @@
+[
+  {
+    "path": "src/__init__.py",
+    "source": "src/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/analyze1.py",
+    "source": "src/analyze1.py",
+    "bytes": 2905,
+    "sha256": "b555f73cb6c0e86f2935d3282921d99def68fc8b0a0dcc70b754062ebabaca4a",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/attr_prior.py",
+    "source": "src/attr_prior.py",
+    "bytes": 10387,
+    "sha256": "06898ab90812b38fb164b224293037404cebf7d6d88c117f881b3ac816e950a9",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/constants.py",
+    "source": "src/constants.py",
+    "bytes": 893,
+    "sha256": "b8c0530ecc78e23b2610b8db6286dcb606dd3b833e4d89e9808a42d3f3b7b382",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/data.py",
+    "source": "src/data.py",
+    "bytes": 17096,
+    "sha256": "e81c4b0b9d2c9448adab905bbf966111a7ebc9c307bf46cb6b0f1572e8353fed",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/embedding.py",
+    "source": "src/embedding.py",
+    "bytes": 3215,
+    "sha256": "581794014c084f37cb1edff426c7a6d98028d09780ea3206e6c038de8e857587",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/eval_utils.py",
+    "source": "src/eval_utils.py",
+    "bytes": 5003,
+    "sha256": "828668ed17cff45313bc594e171fc8aad383618edda02efd742834805dcec06b",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/ig.py",
+    "source": "src/ig.py",
+    "bytes": 6621,
+    "sha256": "52c9ee5ff1775713d8caf0b75a7d489bbaf9c3e058d70083d159b6d5f678eddd",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/ig1.py",
+    "source": "src/ig1.py",
+    "bytes": 6445,
+    "sha256": "47e2a3c9079fd14a7f6ee6e1b10813fab0a3c3394b72597544555c5885f13557",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/ig_recycle.py",
+    "source": "src/ig_recycle.py",
+    "bytes": 8005,
+    "sha256": "ad3a82f742d74d505ade2b598787a5e7af17621b91b60491bc511946df22bd1f",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/ig_step.py",
+    "source": "src/ig_step.py",
+    "bytes": 6621,
+    "sha256": "52c9ee5ff1775713d8caf0b75a7d489bbaf9c3e058d70083d159b6d5f678eddd",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/igfull.py",
+    "source": "src/igfull.py",
+    "bytes": 9724,
+    "sha256": "ef4b247757d705af2980f279502b0e2c76e8c52193d813e1552d81626dbe65de",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/igfullstep.py",
+    "source": "src/igfullstep.py",
+    "bytes": 8029,
+    "sha256": "f4aca5668a115c3f17728069f3a2a6394c4d36e09b00be3ed315d66ab3128d51",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/logic.py",
+    "source": "src/logic.py",
+    "bytes": 10190,
+    "sha256": "6c075bfd87e4df363d583e9503f7b6780a23099d6f62d7007ec03982be2a4311",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/logic1.py",
+    "source": "src/logic1.py",
+    "bytes": 3567,
+    "sha256": "b1196c550b07c4b2b46e0bad05629bd5458d47fdd9f1a4b8ab27aa245b719bbd",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/logic2.py",
+    "source": "src/logic2.py",
+    "bytes": 10934,
+    "sha256": "1776c84365ee0d54ac7fad9e4f9b3745fd1a2e2d25dbdb3e54bc4160eef18ea3",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/main.py",
+    "source": "src/main.py",
+    "bytes": 18330,
+    "sha256": "4fa6b678cd292c569c83ac832799474a270eacbe0cd7c8ed192d349943685f90",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/metrics.py",
+    "source": "src/metrics.py",
+    "bytes": 7618,
+    "sha256": "10878a12776eaf6525bac1853f8bd0b166b4f611bdb22c10efef5f41b015a5d0",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/model1.py",
+    "source": "src/model1.py",
+    "bytes": 5164,
+    "sha256": "0778f8267643e5bac0a443abf17a89e9d7d17ad0c7b4ad7450663d6d5b898918",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/model2.py",
+    "source": "src/model2.py",
+    "bytes": 8027,
+    "sha256": "ce8d77373d400145d9b4ccc2295f927536bbf6592c75dcbe6393aa29446d35a2",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/newig.py",
+    "source": "src/newig.py",
+    "bytes": 5891,
+    "sha256": "880adb7e3e1f53b8d813f108e9a678f3a1adb3f98792b51fc705ade6d77b89e1",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/newig1.py",
+    "source": "src/newig1.py",
+    "bytes": 6854,
+    "sha256": "802e277c502289c9d3f2450e7ec8ac9c9c3b648668a429c6bab5b9ca74256434",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/order.py",
+    "source": "src/order.py",
+    "bytes": 601,
+    "sha256": "d01dee927aa758e0267279073f0edb886e799df3a67ed31d3500e56aa171c400",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/order1.py",
+    "source": "src/order1.py",
+    "bytes": 602,
+    "sha256": "fbaa74219002f1e7054809b9b00a7dffbd26c79c8aa58e2c9d14dfb101452428",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/pool.py",
+    "source": "src/pool.py",
+    "bytes": 3596,
+    "sha256": "fbabcb8a6532a79a75532ea0f729bf42502feba84a45f46f4a2d0211af45c88a",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/pool1.py",
+    "source": "src/pool1.py",
+    "bytes": 9696,
+    "sha256": "c3839f03ad0ec9e8de20565c12aa24226ccc3d7100113142a638a8dfce40b9ad",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/pos1.py",
+    "source": "src/pos1.py",
+    "bytes": 2824,
+    "sha256": "b8482e8bd1a123945eca59720aaf0e03a38b8ace8764b8146fa3dd04f59924ee",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/recycle.py",
+    "source": "src/recycle.py",
+    "bytes": 10195,
+    "sha256": "593f11a01d1a7b2be11b1a1070d4f3c586f74fff0a824b7182f92de6a5a2fc93",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/recycle1.py",
+    "source": "src/recycle1.py",
+    "bytes": 9558,
+    "sha256": "aaa791fe539cea51db2732443ffc94664f27046dea257960eaa2f92b96bb85c9",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/step.py",
+    "source": "src/step.py",
+    "bytes": 8418,
+    "sha256": "66b3b38133cbc6f081e082e0a8d512857b1c052acbd0a95d9c0fad5caed375d5",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/total.py",
+    "source": "src/total.py",
+    "bytes": 6209,
+    "sha256": "10fb574f4219200a180c0f49d280f970a491fa01925424d8e876f6407fd7db4f",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/total1.py",
+    "source": "src/total1.py",
+    "bytes": 6192,
+    "sha256": "33470172e76e2aaa0409b92473ac888d67a647e980ee9ce8cd4c1d1cd439762b",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/train.py",
+    "source": "src/train.py",
+    "bytes": 13119,
+    "sha256": "6bd29e371e706043945323d120d948d3af5d085a08ed8f1aeec5657139813d1b",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/train1.py",
+    "source": "src/train1.py",
+    "bytes": 12293,
+    "sha256": "5513a9391d2ae2a592ade7927058bb987fae7514a0d432c894b9958e5ec81d80",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/train1new.py",
+    "source": "src/train1new.py",
+    "bytes": 15158,
+    "sha256": "eb1e294edd1d5c9c41b8b8c1a408e9e3e55e71b997edb89d6da1b2f269efc2a4",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/train2.py",
+    "source": "src/train2.py",
+    "bytes": 12934,
+    "sha256": "9a529e0b7a498040edfd53775704fc7f5aa18083128918f05f1b35d0ff99af1e",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/tt.py",
+    "source": "src/tt.py",
+    "bytes": 7167,
+    "sha256": "cfa4c937ae44c4195fddfde839dea5346d837714d355a86ff95561177e74a176",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/utils.py",
+    "source": "src/utils.py",
+    "bytes": 2131,
+    "sha256": "0e69c2a9ffff84e2da07587d08b4eb0249445fe4c0a3e659f864f85db7fc2b2e",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "src/write.py",
+    "source": "src/write.py",
+    "bytes": 3519,
+    "sha256": "8d8ba42850f400fa464474efbeca43e5263588d4417469db1bdf00a595d37676",
+    "note": "Research source snapshot; original personal server path replaced with /path/to/project."
+  },
+  {
+    "path": "data/train/SEQ_total_train.csv",
+    "source": "src/SEQ_total_train.csv",
+    "bytes": 40047685,
+    "sha256": "af516764ccde7ef38913a731e1b8028a8fc64e8017a33155392294b69c299265",
+    "note": "557522 training word records; not a full development split."
+  },
+  {
+    "path": "data/train/training_proteins_and_labels.csv",
+    "source": "DeepLoc development table filtered exclusively to IDs in src/SEQ_total_train.csv",
+    "bytes": 9697638,
+    "sha256": "85a515978483f5b2137727274707f4be0c508e43e618bbd0cf216b6bc42cb5ec",
+    "note": "19489 sequence/label records; validation-only records excluded."
+  },
+  {
+    "path": "data/test/hpa_testset_5523.csv",
+    "source": "hpa_testset.csv",
+    "bytes": 2241395,
+    "sha256": "f56f41c550cd8823a155a6d876a977ce615735dd14591e6a3cdcb9adc3a9057d",
+    "note": "All 5523 supplied records. One sequence is missing in the source."
+  },
+  {
+    "path": "data/test/hpa_available_sequences_5522.fasta",
+    "source": "hpa_testset.csv",
+    "bytes": 2100687,
+    "sha256": "b7a2bd484f3d4be0f31955af5ad23196e895f86ba887fe3a223b3435cf19d91e",
+    "note": "All 5522 nonmissing source sequences; no imputation or truncation."
+  },
+  {
+    "path": "data/test/sequence_availability.csv",
+    "source": "hpa_testset.csv",
+    "bytes": 116007,
+    "sha256": "e9a4533bae2cc0c17338312b29e15b9e058a62dad6d3ef64d2a214d1e1954aa0",
+    "note": "Explicit sequence completeness."
+  },
+  {
+    "path": "library/representative_55_words_11_classes.xlsx",
+    "source": "JCIM_submission/protein_word_localization_signal_library.xlsx",
+    "bytes": 13142,
+    "sha256": "d664be046ad6cb824b37b1a33c73c25153fa4554c167439d7879417de1a601ac",
+    "note": "55 display representatives, not the full candidate resource."
+  },
+  {
+    "path": "library/full_fragment_frequency_11_classes.csv.gz",
+    "source": "src/train_val_fragment_frequency_total.csv",
+    "bytes": 15975543,
+    "sha256": "796d60a0679230b98fcc0aa7d0cd7ba078cc01fa776942cc0c38f6d24cb3e5e1",
+    "note": "665788 class-word aggregate rows; training/validation summaries retained by author instruction; no validation protein records."
+  },
+  {
+    "path": "library/11_class_protein_words.docx",
+    "source": "Existing 55-representative XLSX",
+    "bytes": 38485,
+    "sha256": "8ece9d08f41854cacdd052b4a7d23dc01d0380ffb6dc66ea83ce2fa95cdd4c59",
+    "note": "Readable Word companion; full raw resource is separate."
+  }
+]
